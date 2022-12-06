@@ -4,5 +4,6 @@ Mobile Application Using Flutter about technology product advertisement and revi
 
 # How to use:
 
-1. Run AVD
-2. Excecute command in terminal => flutter run
+1. Clone this repository
+2. Run AVD
+3. Excecute command in terminal => flutter run
